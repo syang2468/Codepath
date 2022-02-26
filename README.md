@@ -5,12 +5,10 @@
 ## Lab 1
 
 ### App Description
-`TODO://` This app is an interactive flashcard app. You can interact with the flashcard or use quiz mode and choose the correct answer
+This app is an interactive flashcard app. You can interact with the flashcard or use quiz mode and choose the correct answer
 
 ### App Walk-though
-`TODO://` <img src="https://user-images.githubusercontent.com/56798424/155857495-5abb5c81-5b7e-465c-8dfd-ba3b71a333e8.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://user-images.githubusercontent.com/56798424/155857495-5abb5c81-5b7e-465c-8dfd-ba3b71a333e8.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
