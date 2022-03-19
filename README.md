@@ -1,9 +1,27 @@
 📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
+## Lab 3
+
+### App Description
+User can create and delete multiple flashcards and retrieve existing flashcards from their previous session. User can also create multiple choice questions
+
+### App Walk-though
+<img src="https://user-images.githubusercontent.com/56798424/159141271-68a93add-0478-4e1d-a516-28a528632676.gif" width=200><br>
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [x] User can delete a flashcard
+- [x] User can edit existing flashcard
+- [x] User can store multiple choice questions
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+
 ## Lab 2
 
 ### App Description
-`TODO://` Users can create their flashcards and choose whether or not to have answer choices. User are also able to edit their flashcard if there is a mistake.
+Users can create their flashcards and choose whether or not to have answer choices. User are also able to edit their flashcard if there is a mistake.
 
 ### App Walk-though
 <img src="https://user-images.githubusercontent.com/56798424/158035731-a2eb0d72-c3b4-48dd-882a-0bad06ae6703.gif" width=200><br>
