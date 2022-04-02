@@ -1,5 +1,28 @@
 📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
+## Lab 4
+
+### App Description
+Added animations to the flashcard when clicking next, previous and flip. Add logo to app icon and splash image to launch screen and flashcards bounces upon opening. App icons appears properly on all sizes.
+
+### App Walk-though
+
+<img src="https://user-images.githubusercontent.com/56798424/161398313-bd3c981a-652e-4ebd-b263-048fe07e5b8d.gif" width=200><br>
+
+## Required
+- [x] User should see the app icon 
+- [x] User should see a splash screen
+- [x] User should see an flip animation when revealing the answer
+- [x] User should see a slide animation when going to the next flashcard
+- [x] User should see a slide animation when going to the previous flashcard
+- [x] Push code to GitHub
+## Optional
+- [x] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [x] User should see all views properly layout when using the app on a phone of different sizes
+- [x] Correct answer in multiple choice should be random
+
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+
 ## Lab 3
 
 ### App Description
