@@ -7,7 +7,7 @@ Added animations to the flashcard when clicking next, previous and flip. Add log
 
 ### App Walk-though
 
-<img src="https://user-images.githubusercontent.com/56798424/161398313-bd3c981a-652e-4ebd-b263-048fe07e5b8d.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/56798424/162573652-57cfb80d-05be-4d68-8493-1a2744941bb2.gif" width=200><br>
 
 ## Required
 - [x] User should see the app icon 
