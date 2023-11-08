@@ -5,7 +5,7 @@
 ### App Description
 Added animations to the flashcard when clicking next, previous and flip. Add logo to app icon and splash image to launch screen and flashcards bounces upon opening. App icons appears properly on all sizes.
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://user-images.githubusercontent.com/56798424/162573652-57cfb80d-05be-4d68-8493-1a2744941bb2.gif" width=200><br>
 
@@ -28,7 +28,7 @@ Added animations to the flashcard when clicking next, previous and flip. Add log
 ### App Description
 User can create and delete multiple flashcards and retrieve existing flashcards from their previous session. User can also create multiple choice questions
 
-### App Walk-though
+### App Walk-through
 <img src="https://user-images.githubusercontent.com/56798424/159141271-68a93add-0478-4e1d-a516-28a528632676.gif" width=200><br>
 
 ## Required
@@ -46,7 +46,7 @@ User can create and delete multiple flashcards and retrieve existing flashcards 
 ### App Description
 Users can create their flashcards and choose whether or not to have answer choices. User are also able to edit their flashcard if there is a mistake.
 
-### App Walk-though
+### App Walk-through
 <img src="https://user-images.githubusercontent.com/56798424/158035731-a2eb0d72-c3b4-48dd-882a-0bad06ae6703.gif" width=200><br>
 
 ## Required
@@ -71,7 +71,7 @@ Users can create their flashcards and choose whether or not to have answer choic
 ### App Description
 This app is an interactive flashcard app. You can interact with the flashcard or use quiz mode and choose the correct answer
 
-### App Walk-though
+### App Walk-through
 <img src="https://user-images.githubusercontent.com/56798424/155857495-5abb5c81-5b7e-465c-8dfd-ba3b71a333e8.gif" width=200><br>
 
 ## Required
